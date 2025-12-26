@@ -1,5 +1,7 @@
 # Bankist-landing-page - Advanced DOM manipulation using vanilla Javascript
 
+NOT RESPONSIVE, ONLY DESKTOP MODE
+
 ## Lazy Loading Images
 Embrace the efficiency of lazy loading images, ensuring that your web page loads quickly and users enjoy a seamless experience. Images are loaded only when they come into the user's viewport, reducing initial page load times.
 
