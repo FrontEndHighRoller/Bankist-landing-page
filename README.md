@@ -1,8 +1,9 @@
-# 🏦 Bankist Landing Page
-Advanced DOM manipulation using vanilla JavaScript, NOT RESPONSIVE, ONLY DESKTOP MODE
-
-> A modern, interactive, and visually appealing banking UI project inspired by minimalist design principles.
-
+# 🏦 Bankist Landing Page [DESKTOP ONLY, NOT FULLY RESPONSIVE]
+> Advanced DOM manipulation using vanilla JavaScript. A modern, interactive, and visually appealing banking UI project inspired by minimalist design principles.
+![alt](screen-1.png)
+![alt](screen-2.png)
+![alt](screen-3.png)
+> 
 ---
 
 ## 🛠️ Tech Stack
@@ -55,6 +56,23 @@ Advanced DOM manipulation using vanilla JavaScript, NOT RESPONSIVE, ONLY DESKTOP
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/bankist.git
+   git clone https://github.com/FrontEndHighRoller/Bankist-landing-page.git
 2. Open index.html in your browser
-3. Interact with tabs, sliders, and modals to explore features 🚀
+3. Resize the screen to see responsive layouts and image switching in action 🎯
+
+---
+
+🏆 Challenge Credit
+Challenge by Frontend Mentor
+https://www.frontendmentor.io
+
+---
+
+🙋‍♂️ Author
+Dennis Rumanek
+
+GitHub: https://github.com/FrontEndHighRoller
+
+LinkedIn: https://www.linkedin.com/in/dennis-rumanek/
+
+⭐ If you like this solution, feel free to star the repository!
